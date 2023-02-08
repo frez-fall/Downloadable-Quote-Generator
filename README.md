@@ -6,14 +6,14 @@ A random quote machine with template customization. It allows users to download 
 - `New Quote` button - generates a new quote to display
 - `Download` button - downloads the quote as displayed into a JPEG image
 
-###Made with:
+### Made with:
 
 - HTML5
   -CSS3
 - JavaScript
 - Bootstrap
 
-###Dependencies
+### Dependencies
 
 - Node.js
 - Parcel.js
