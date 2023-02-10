@@ -10,10 +10,10 @@ A random quote machine with template customization. It allows users to download 
 ## About the Project
 ### Made with:
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+- HTML5 and Bootstrap for layouting content
+- CSS3 for adding style and design. Used flexbox and css grid.
+- JavaScript - for functionality and animation.
+
 
 ### Dependencies
 
@@ -30,8 +30,6 @@ Install HTML-to-Image npm `npm install --save html-to-image`
 Run program `npm run start`
 
 ### Live Demo
-
-
 
 https://user-images.githubusercontent.com/115141272/218037313-2d7f2be5-bfb0-4a26-a3b5-adb86a466178.mp4
 
