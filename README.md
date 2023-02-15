@@ -23,11 +23,11 @@ A random quote machine with template customization. It allows users to download 
 - Quotable API `https://api.quotable.io` - open source quotations API 
 
 ### Getting Started 
-Download node.js from `https://nodejs.org/en/`
-Initialize npm package `npm init -y`
-Install parcel `npm install --save-dev parcel`
-Install HTML-to-Image npm `npm install --save html-to-image`
-Run program `npm run start`
+- Download node.js from `https://nodejs.org/en/`
+- Initialize npm package `npm init -y`
+- Install parcel `npm install --save-dev parcel`
+- Install HTML-to-Image npm `npm install --save html-to-image`
+- Run program `npm run start`
 
 ### Live Demo
 
