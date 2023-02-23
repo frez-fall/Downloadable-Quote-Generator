@@ -29,7 +29,7 @@ A random quote machine with template customization. It allows users to download 
 - Install HTML-to-Image npm `npm install --save html-to-image`
 - Run program `npm run start`
 
-### Live Demo
+### Demo
 
 https://user-images.githubusercontent.com/115141272/218037313-2d7f2be5-bfb0-4a26-a3b5-adb86a466178.mp4
 
